@@ -62,7 +62,7 @@ const App = () => {
       <div className='app'>
 
         <header>
-        <h1>Freedom.xyz</h1>
+        <h1>4democracy.xyz</h1>
         <h3><span>Total Helldivers: </span><span>{totalPlayers.toLocaleString()}</span></h3>
         </header>
         
